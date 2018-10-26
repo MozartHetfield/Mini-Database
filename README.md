@@ -7,7 +7,7 @@
 
 Structura temei:
 
-	Baza de date constituie o lista de tabele (care la randul lor sunt liste). Fiecare tabela este si ea o lista, ce contine pe prima pozitie numele acesteia, iar pe urmatoarele coloanele sale. De asemenea, fiecare coloana contine numele acesteia pe prima pozitie, fiind urmata de elementele ce definesc campul respectiv. Valorile sunt puse pe categorii (coloane, atribute), si nu pe membru. Exemplu: o coloana va stoca numele tuturor participantilor '("Nume" "Ion" "Danut" "Petru") si nu atributele unei singure inregistrari.
+Baza de date constituie o lista de tabele (care la randul lor sunt liste). Fiecare tabela este si ea o lista, ce contine pe prima pozitie numele acesteia, iar pe urmatoarele coloanele sale. De asemenea, fiecare coloana contine numele acesteia pe prima pozitie, fiind urmata de elementele ce definesc campul respectiv. Valorile sunt puse pe categorii (coloane, atribute), si nu pe membru. Exemplu: o coloana va stoca numele tuturor participantilor '("Nume" "Ion" "Danut" "Petru") si nu atributele unei singure inregistrari.
 
 Ex 1:
 
