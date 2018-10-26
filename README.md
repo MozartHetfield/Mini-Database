@@ -1,9 +1,7 @@
-                                                         Mini Database
-                                                          
-#Nume: Soare Ion-Alexandru
-#Serie si grupa: CD 323
-#Profesor coordonator: Tudor Berariu
-#Tema 1: Mini Database (Racket)
+	Nume: Soare Ion-Alexandru
+	Serie si grupa: CD 323
+	Profesor coordonator: Tudor Berariu
+	Tema 1: Mini Database (Racket)
 
 Structura temei:
 
